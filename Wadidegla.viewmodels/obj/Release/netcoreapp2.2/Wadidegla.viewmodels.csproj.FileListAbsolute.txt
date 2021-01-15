@@ -1,0 +1,14 @@
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.viewmodels\bin\Release\netcoreapp2.2\Wadidegla.viewmodels.deps.json
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.viewmodels\bin\Release\netcoreapp2.2\Wadidegla.viewmodels.dll
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.viewmodels\bin\Release\netcoreapp2.2\Wadidegla.viewmodels.pdb
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.viewmodels\bin\Release\netcoreapp2.2\Wadidegla.DataLayer.dll
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.viewmodels\bin\Release\netcoreapp2.2\Wadidegla.Repositories.dll
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.viewmodels\bin\Release\netcoreapp2.2\Wadidegla.Repositories.pdb
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.viewmodels\bin\Release\netcoreapp2.2\Wadidegla.DataLayer.pdb
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.viewmodels\obj\Release\netcoreapp2.2\Wadidegla.viewmodels.csprojAssemblyReference.cache
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.viewmodels\obj\Release\netcoreapp2.2\Wadidegla.viewmodels.csproj.CoreCompileInputs.cache
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.viewmodels\obj\Release\netcoreapp2.2\Wadidegla.viewmodels.AssemblyInfoInputs.cache
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.viewmodels\obj\Release\netcoreapp2.2\Wadidegla.viewmodels.AssemblyInfo.cs
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.viewmodels\obj\Release\netcoreapp2.2\Wadidegla.viewmodels.csproj.CopyComplete
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.viewmodels\obj\Release\netcoreapp2.2\Wadidegla.viewmodels.dll
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.viewmodels\obj\Release\netcoreapp2.2\Wadidegla.viewmodels.pdb

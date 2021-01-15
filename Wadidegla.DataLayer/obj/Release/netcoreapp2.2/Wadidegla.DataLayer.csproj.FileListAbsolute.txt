@@ -1,0 +1,11 @@
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.DataLayer\bin\Release\netcoreapp2.2\Wadidegla.DataLayer.deps.json
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.DataLayer\bin\Release\netcoreapp2.2\Wadidegla.DataLayer.runtimeconfig.json
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.DataLayer\bin\Release\netcoreapp2.2\Wadidegla.DataLayer.runtimeconfig.dev.json
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.DataLayer\bin\Release\netcoreapp2.2\Wadidegla.DataLayer.dll
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.DataLayer\bin\Release\netcoreapp2.2\Wadidegla.DataLayer.pdb
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.DataLayer\obj\Release\netcoreapp2.2\Wadidegla.DataLayer.csprojAssemblyReference.cache
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.DataLayer\obj\Release\netcoreapp2.2\Wadidegla.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.DataLayer\obj\Release\netcoreapp2.2\Wadidegla.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.DataLayer\obj\Release\netcoreapp2.2\Wadidegla.DataLayer.AssemblyInfo.cs
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.DataLayer\obj\Release\netcoreapp2.2\Wadidegla.DataLayer.dll
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.DataLayer\obj\Release\netcoreapp2.2\Wadidegla.DataLayer.pdb

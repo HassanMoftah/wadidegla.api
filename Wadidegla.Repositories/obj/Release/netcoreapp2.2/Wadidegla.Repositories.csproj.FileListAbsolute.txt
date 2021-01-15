@@ -1,0 +1,12 @@
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.Repositories\bin\Release\netcoreapp2.2\Wadidegla.Repositories.deps.json
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.Repositories\bin\Release\netcoreapp2.2\Wadidegla.Repositories.dll
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.Repositories\bin\Release\netcoreapp2.2\Wadidegla.Repositories.pdb
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.Repositories\bin\Release\netcoreapp2.2\Wadidegla.DataLayer.dll
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.Repositories\bin\Release\netcoreapp2.2\Wadidegla.DataLayer.pdb
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.Repositories\obj\Release\netcoreapp2.2\Wadidegla.Repositories.csprojAssemblyReference.cache
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.Repositories\obj\Release\netcoreapp2.2\Wadidegla.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.Repositories\obj\Release\netcoreapp2.2\Wadidegla.Repositories.AssemblyInfoInputs.cache
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.Repositories\obj\Release\netcoreapp2.2\Wadidegla.Repositories.AssemblyInfo.cs
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.Repositories\obj\Release\netcoreapp2.2\Wadidegla.Repositories.csproj.CopyComplete
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.Repositories\obj\Release\netcoreapp2.2\Wadidegla.Repositories.dll
+C:\Users\Moftah\source\repos\Wadidegla.API\Wadidegla.Repositories\obj\Release\netcoreapp2.2\Wadidegla.Repositories.pdb
